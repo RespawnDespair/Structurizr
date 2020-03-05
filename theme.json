@@ -39,6 +39,11 @@
             "background": "#73f275",
             "color": "#ffffff",
             "shape": "WebBrowser"
+        },
+        {
+            "tag": "Extern",
+            "background": "#ff8080",
+            "color": "#ffffff"
         }
     ],
     "relationships": []
