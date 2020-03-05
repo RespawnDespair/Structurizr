@@ -27,6 +27,18 @@
             "background": "#73f275",
             "color": "#ffffff",
             "shape": "Folder"
+        },
+        {
+            "tag": "App",
+            "background": "#73f275",
+            "color": "#ffffff",
+            "shape": "MobileDevicePortrait"
+        },
+        {
+            "tag": "Website",
+            "background": "#73f275",
+            "color": "#ffffff",
+            "shape": "WebBrowser"
         }
     ],
     "relationships": []
