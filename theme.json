@@ -1,0 +1,22 @@
+{
+    "elements": [
+        {
+            "tag": "Software System",
+            "background": "#1168bd",
+            "color": "#ffffff"
+        },
+        {
+            "tag": "Person",
+            "background": "#08427b",
+            "color": "#ffffff",
+            "shape": "Person"
+        },
+        {
+            "tag": "Database",
+            "background": "#08427b",
+            "color": "#ffffff",
+            "shape": "Cylinder"
+        }
+    ],
+    "relationships": []
+}
