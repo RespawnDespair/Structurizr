@@ -21,6 +21,12 @@
             "tag": "Container",
             "background": "#73f275",
             "color": "#ffffff"
+        },
+        {
+            "tag": "Folder",
+            "background": "#73f275",
+            "color": "#ffffff",
+            "shape": "Folder"
         }
     ],
     "relationships": []
